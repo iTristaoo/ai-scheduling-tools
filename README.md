@@ -71,13 +71,23 @@ O agente principal ([ai-receptionist-clinics](https://github.com/iTristaoo/ai-re
 
 ## 📈 Resultados
 
-> Exemplos do que medir:
-> - 📅 % de agendamentos feitos **sem intervenção humana**
-> - 🚫 Redução de erros de marcação (dupla marcação, horário inválido)
-> - ⏱️ Tempo médio do "quero marcar" → "agendado"
+- ✅ **Agenda, remarca e cancela sem intervenção humana**, dentro da própria conversa.
+- 🚫 **Sem dupla marcação** — só oferece horário que está de fato livre.
+- ♻️ As mesmas ferramentas atendem várias clínicas trocando só a configuração.
+- ⏱️ Do "quero marcar" ao "agendado" em segundos.
+
+<!-- iTristaoo: se tiver número real, some aqui (ex: "N agendamentos/mês via IA"). Não invente. -->
 
 ---
 
 ## 🔗 Projetos relacionados
 
 - [ai-receptionist-clinics](https://github.com/iTristaoo/ai-receptionist-clinics) — o agente que orquestra estas ferramentas
+
+---
+
+## 📲 Quer um agente desses no seu negócio?
+
+**Construo automações e agentes de IA sob medida.** Bora conversar — me chama.
+
+<!-- iTristaoo: troque pelos seus links reais → ex: [WhatsApp](https://wa.me/55SEUNUMERO) · [Email](mailto:seu@email.com) -->
